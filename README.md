@@ -22,7 +22,8 @@ This repository contains a Qiskit implementation of a two-qubit quantum protocol
 ## Installation
 
 ```bash
-pip install qiskit matplotlib
+pip install qiskit
+pip install matplotlib
 ```
 
 ## Code Breakdown
